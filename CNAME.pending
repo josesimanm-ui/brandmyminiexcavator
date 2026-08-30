@@ -1,0 +1,4 @@
+brandmyminiexcavator.com
+
+Cuando el dominio esté comprado y el DNS apuntando:
+  git mv CNAME.pending CNAME && git commit -m 'custom domain' && git push
